@@ -1,0 +1,9 @@
+{
+  "name": "@chakra-ui/rfcs",
+  "version": "1.0.0",
+  "description": "Requests For Comments Repo for Chakra UI",
+  "main": "index.js",
+  "repository": "git@github.com:chakra-ui/rfcs.git",
+  "author": "codebender828 <codebender828@gmail.com>",
+  "license": "MIT"
+}
