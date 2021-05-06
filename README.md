@@ -28,7 +28,7 @@ An RFC goes through the following stages:
 You need to follow this process if you intend to make "substantial"
 changes to one of the projects listed below:
 
-- [Chakra UI Reacr](https://github.com/chakra-ui/chakra-ui)
+- [Chakra UI React](https://github.com/chakra-ui/chakra-ui)
 - [Chakra UI Vue](https://github.com/chakra-ui/chakra-ui-vue)
 
 We are limiting the RFC process for these repos to test out the process in a more manageable fashion, and may expand it to cover more projects under the `chakra-ui` organization in the future. For now, if you wish to suggest changes to those other projects, please use their respective issue lists.
