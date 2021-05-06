@@ -73,7 +73,7 @@ RFC merged into the RFC repo as a markdown file. At that point the RFC
 is 'active' and may be implemented with the goal of eventual inclusion
 into Chakra UI.
 
-* Fork the RFC repo http://github.com/vuejs/rfcs
+* Fork the RFC repo http://github.com/chakra-ui/rfcs
 
 * Copy `0000-template.md` to `active-rfcs/0000-my-feature.md` (where
 'my-feature' is descriptive. don't assign an RFC number yet).
@@ -136,7 +136,7 @@ pull requests on a regular basis. If a core team member believes an RFC PR is re
 
 **Chakra UI's RFC process owes its inspiration to the [Vue RFC process], [React RFC process], [Rust RFC process] and [Ember RFC process]**
 
-[Vue RFC process]: https://github.com/vuejs/rfcs
+[Vue RFC process]: https://github.com/chakra-ui/rfcs
 [React RFC process]: https://github.com/reactjs/rfcs
 [Rust RFC process]: https://github.com/rust-lang/rfcs
 [Ember RFC process]: https://github.com/emberjs/rfcs
