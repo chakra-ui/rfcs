@@ -8,14 +8,17 @@
 I've build a bunch of components in Saas UI that I think are essential to any UI library, but weren't part of Chakra UI yet.
 I noticed some of them are listed on the roadmap, so I thought it would be a great idea to consolidate them to Chakra UI.
 
-The first component I like to propose is `Loader` or `LoadingOverlay`.
+The first component I like to propose is `LoadingOverlay`.
 It's a loading indicator that fills or overlays it's parent and renders a spinner in the center.
 
 # Basic example
 
 ```tsx
 <Box height="400px">
-  <LoadingOverlay />
+  <LoadingOverlay>
+    <LoadingSpinner />
+    <LoadingText>Loading...</LoadingText>
+  </LoadingOverlay>
 </Box>
 ```
 
