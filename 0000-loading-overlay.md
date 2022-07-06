@@ -145,8 +145,7 @@ function Page() {
   return (
     <Box ref={containerRef}>
       <LoadingOverlay containerRef={containerRef}>
-        <LoadingSpinner />
-        <LoadingText>Loading...</LoadingText>
+        <LoadingSpinner label="Loading..." />
       </LoadingOverlay>
     </Box>
   )
